@@ -1,0 +1,9 @@
+<plugin name=\"dScroll\" version=\"0.0.1\" compatVersion=\"0.0.1\">
+    <vendor>decimal</vendor>
+    <copyright>(C) .decimal</copyright>
+    <license>LPGL</license>
+    <description>QtCreator Enhanced Scroll Bar. Modeled after VS RockScroll and qtcreator-coolscroll.</description>
+    <url></url>
+    $$dependencyList
+</plugin>
+
